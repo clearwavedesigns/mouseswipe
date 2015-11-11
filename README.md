@@ -1,0 +1,2 @@
+# mouseswipe
+Mouse swiping API
