@@ -4,7 +4,7 @@ Mouse swiping API.
 <h2>Use:</h2>
 <pre>
 // INSTANTIATE A NEW MOUSESWIPE OBJECT
-<strong>var swipeInstance = new MouseSwipe({<strong>
+<strong>var swipeInstance = new MouseSwipe({</strong>
   <strong>area:</strong> document.querySelector('#swipe-area'), <em>// Area to track as an element.</em>
   <strong>change:</strong> dev.change, <em>// Optional. Function. Returns an object with ms, x, and y as the difference between the mouseup and mousedown events.</em>
   <strong>move:</strong> dev.move, <em>// Optional. Function. Returns an object with ms, x, and y as the ellapsed current datetime ms stamp, x and y coordinates since mousedown.</em>
