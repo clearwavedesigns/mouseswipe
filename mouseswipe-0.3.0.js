@@ -1,7 +1,7 @@
 /*
  MouseSwipe v0.3.0
  (c) 2015 Depth Development. http://depthdev.com
- License: Apache 2.0
+ License: MIT
 */
 
 function MouseSwipe(o) {
