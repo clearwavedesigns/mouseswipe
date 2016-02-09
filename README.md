@@ -1,6 +1,8 @@
 # MouseSwipe
 Mouse swiping API.
 
+<p>Weak-sauce <a href="http://codepen.io/depthdev/pen/bVmqzY" target="_blank">demo</a></p>
+
 <h2>Use:</h2>
 <pre>
 // INSTANTIATE A NEW MOUSESWIPE OBJECT
